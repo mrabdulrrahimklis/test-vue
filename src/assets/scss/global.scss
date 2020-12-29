@@ -1,0 +1,22 @@
+// imports
+@import "variables";
+
+// text-sizes
+.font-size-16 {
+  font-size: 16px;
+}
+
+// backgrounds
+.background {
+  background: $background;
+}
+
+// font
+.font-weight-none {
+  font-weight: normal !important;
+}
+
+// buttons
+.no-underline {
+  text-decoration: none;
+}
